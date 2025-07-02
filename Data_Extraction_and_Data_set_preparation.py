@@ -38,4 +38,4 @@ data = pd.read_csv(r'C:\Users\CMTI\Downloads\dataset for ML modeling\Chest_XRay_
 print(data['Encoded_labels'].value_counts()[:25])
 print(data['Finding Labels'].value_counts()[:25])
 
-filepaths = data['filepaths']
+filepaths = data['filepaths']a
